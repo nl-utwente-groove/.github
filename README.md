@@ -9,4 +9,4 @@ GROOVE is a tool for graph transformation and verification. More information can
 
 
 [github]: https://github.com/nl-utwente-groove
-[code]: [github]/code
+[code]: ../../../code
