@@ -16,4 +16,4 @@ For now, pre-packaged downloads can still be found on SourceForge, at <https://s
 
 ## Home page
 
-More information van be found on the GROOVE home page: <https://nl-utwente-groove.github.io>.
+More information van be found on the GROOVE home page: <https://groove.eemcs.utwente.nl>.
