@@ -4,7 +4,7 @@ GROOVE is a tool for graph transformation and verification, developed and mainta
 
 ## Releases
 
-The latest pre-packaged release can be obtained from <../../../code/releases/latest>. For older versions go to <../../../code/releases>.
+The latest pre-packaged release can be obtained from <https://github.com/nl-utwente-groove/code/releases/latest>. For older versions go to <https://github.com/nl-utwente-groove/code/releases>.
 
 ## Codebase
 
