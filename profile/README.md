@@ -4,7 +4,7 @@ GROOVE is a tool for graph transformation and verification, developed and mainta
 
 ## Releases
 
-For now, pre-packaged downloads can still be found on SourceForge, at <https://sf.net/projects/groove>. This will migrate to github in the near future.
+The latest pre-packaged release can be obtained from <../../../code/releases/latest>. For older versions go to <../../../code/releases>.
 
 ## Codebase
 
