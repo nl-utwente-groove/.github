@@ -17,3 +17,12 @@ As of March 2024, this github organisation (<https://github.com/nl-utwente-groov
 ## Home page
 
 More information van be found on the GROOVE home page: <https://groove.cs.utwente.nl>.
+
+## Support
+
+The development of GROOVE was assisted by the use of the [Yourkit Java Profiler](http://www.yourkit.com)
+
+![yjp](https://github.com/user-attachments/assets/e878d4e3-6e05-42ca-9d95-af035ceccebd)
+
+YourKit supports open source projects with innovative and intelligent tools 
+for monitoring and profiling Java and .NET applications.
