@@ -22,7 +22,7 @@ More information van be found on the GROOVE home page: <https://groove.cs.utwent
 
 The development of GROOVE was assisted by the use of the [Yourkit Java Profiler](http://www.yourkit.com)
 
-![yjp](https://github.com/user-attachments/assets/e878d4e3-6e05-42ca-9d95-af035ceccebd)
+![yklogo](https://github.com/user-attachments/assets/8692e3b4-e0d9-42b5-bb47-a4fdd4bae01f)
 
 YourKit supports open source projects with innovative and intelligent tools 
 for monitoring and profiling Java and .NET applications.
